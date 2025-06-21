@@ -50,3 +50,5 @@
 ## Acknowledgment
 
 The project is aided with [GitHub Copilot](https://github.com/features/copilot).
+
+**感谢沟槽的树维，但凡能够导出一个Excel格式的课表，甚至是直接支持WebDAV同步课程表（这是极好的），也不需要这样的项目了.**
